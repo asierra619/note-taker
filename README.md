@@ -44,5 +44,5 @@ MIT
 ## Credits
 
 Thank you to the following -<br />
-<br />
-<br />
+viakeegan on GitHub<br />
+ChatGPT<br />
